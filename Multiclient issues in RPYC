@@ -1,0 +1,8 @@
+
+
+I created the threaded server in rpyc and I want to connect to more than one client.. 
+The problem is when i disconnect the client how do I know which client is disconnected? 
+Because I only have 1 on_disconnect function on the server side. Can someone help me to 
+rectify this problem?
+
+Thanks
